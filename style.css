@@ -9,7 +9,7 @@ html {
     opacity: 0.7;
     font-size: 10px;
     /*background-color: #a9a9a9;*/
-    background-image: url('86913.jpg');
+    background-image: url('./86913.jpg');
     -webkit-background-size: cover;
     background-size: cover;
 }
